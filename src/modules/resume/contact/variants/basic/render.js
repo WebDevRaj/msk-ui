@@ -24,10 +24,10 @@ const Basic = (
       backgroundColor: theme.value.color,
       color: theme.value.contrast
     }}>
-      <div><strong>{phoneNo.name}</strong> : {phoneNo.value}</div>
-      <div><strong>{emailId.name}</strong> : {emailId.value}</div>
-      <div><strong>{city.name}</strong> : {city.value}</div>
-      <div><strong>{website.name}</strong> : {website.value}</div>
+      <div><strong>Phone</strong> : {phoneNo.value}</div>
+      <div><strong>Email ID</strong> : {emailId.value}</div>
+      <div><strong>Current City</strong> : {city.value}</div>
+      <div><strong>Website</strong> : {website.value}</div>
     </div>
   );
 };

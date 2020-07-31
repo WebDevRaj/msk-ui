@@ -11,13 +11,13 @@ const properties = {
   phoneNo: {
     name: 'Phone No',
     type: propertyTypes.NUMBER,
-    value: '9999999999',
+    value: 9999999999,
     required: true
   },
   emailId: {
     name: 'Email ID',
     type: propertyTypes.EMAIL,
-    value: 'Email ID',
+    value: 'user@example.com',
     required: true
   },
   city: {
