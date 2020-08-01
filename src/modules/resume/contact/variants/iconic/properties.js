@@ -1,5 +1,5 @@
-import propertyTypes from 'msk-property-types'
-import themes from 'msk-themes'
+import propertyTypes from 'msk-property-types';
+import themes from 'msk-themes';
 
 const properties = {
   theme: {
@@ -31,7 +31,7 @@ const properties = {
     type: propertyTypes.STRING,
     value: 'www.myownwebsite.com',
     required: false
-  },
+  }
 };
 
 export default properties;
