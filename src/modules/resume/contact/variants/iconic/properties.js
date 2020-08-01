@@ -28,7 +28,7 @@ const properties = {
   },
   website: {
     name: 'Website',
-    type: propertyTypes.STRING,
+    type: propertyTypes.URL,
     value: 'www.myownwebsite.com',
     required: false
   }
