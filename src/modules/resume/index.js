@@ -24,7 +24,7 @@ const components = {
   Interests,
   SocialLinks,
   Hobbies,
-  Contact
+  Contact,
   Achievements
 };
 
