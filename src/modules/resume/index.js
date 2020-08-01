@@ -12,6 +12,7 @@ import SocialLinks from './social-links';
 import Interests from './interests';
 import Hobbies from './hobbies';
 import Contact from './contact';
+import Achievements from './achievements';
 
 const components = {
   Cover,
@@ -24,6 +25,7 @@ const components = {
   SocialLinks,
   Hobbies,
   Contact
+  Achievements
 };
 
 const Resume = {
